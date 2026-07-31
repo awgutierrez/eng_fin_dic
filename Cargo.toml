@@ -1,0 +1,6 @@
+[package]
+name = "eng_fin_dic"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
